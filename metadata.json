@@ -1,0 +1,9 @@
+{
+  "name": "VeloGO Private Rideshare",
+  "description": "A private membership rideshare association platform featuring rider and driver dashboards with secure verification and fare transparency.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
